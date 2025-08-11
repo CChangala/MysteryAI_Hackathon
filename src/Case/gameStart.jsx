@@ -16,7 +16,7 @@ import { getEmbeddingFromHF } from "./../../RAG/generateEmbeddingHF";
 import { queryAllCaseSummaries } from "./../../RAG/queryAllCaseSummaries";
 import { storeOverviewEmbedding } from "../../RAG/storeOverviewEmbedding";
 
-const API_KEY = "AIzaSyA63dd1fVVukrf0mvmfFo8DoRH5vpzigPs";
+const API_KEY = "AIzaSyBApVEEAiqtb5cHyl6YoK_DZk0ZJBGh5B8";
 
 const GameStart = () => {
   const [loading, setLoading] = useState(false);
